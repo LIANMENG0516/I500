@@ -637,7 +637,7 @@
                 </option>
                 <option>
                     <name>OOCOutputFile</name>
-                    <state>i500.hex</state>
+                    <state>I500_V1.00.hex</state>
                 </option>
                 <option>
                     <name>OOCCommandLineProducer</name>
